@@ -9,6 +9,7 @@
 /venv
 
 /static/*
+/static_assets/*
 
 /media/*/*.*
 /media/*/*/*.*
@@ -16,3 +17,4 @@
 /media/*/*/*/*
 
 data
+CustomAdmin/static_assets/*
